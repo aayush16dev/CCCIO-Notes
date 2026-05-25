@@ -29,7 +29,7 @@ git clone https://github.com/hamedA2/Zydra
 ```
 python3 Zydra.py -h
 ```
-![[Pasted image 20250104142220.png]]
+![](<Pasted image 20250104142220.png>)
 
 ## Examples
 
@@ -38,11 +38,11 @@ python3 Zydra.py -h
 python3 Zydra.py –f file.zip –d rockyou.txt
 ```
 
-![[Pasted image 20250104143109.png]]
+![](<Pasted image 20250104143109.png>)
 
 2. **Brute force search to find the password for a zip file**
 ```
 python3 Zydra.py –f /root/Desktop/file.zip –b digits,symbols –m 4 –x
 ```
 
-![[Pasted image 20250104143129.png]]
+![](<Pasted image 20250104143129.png>)
