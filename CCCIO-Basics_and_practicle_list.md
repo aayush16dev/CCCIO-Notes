@@ -240,7 +240,7 @@ ssh user@host        # Connect from client (or use Putty)
 | 2  | [practical 2](practical%202.md)   | 27 | [practical 27](practical%2027.md) | 52 | [practical 52](practical%2052.md) |
 | 3  | [practical 3](practical%203.md)   | 28 | [practical 28](practical%2028.md) | 53 | [practical 53](practical%2053.md) |
 | 4  | [practical 4](practical%204.md)   | 29 | [practical 29](practical%2029.md) | 54 | [practical 54](practical%2054.md) |
-| 5  | [practical 5](practical%205.md)   | 30 | [practical 30](practical%2030.md) | 55 | —                                 |
+| 5  | [practical 5](practical%205.md)   | 30 | [practical 30](practical%2030.md) | 55 | [practical 55](practical%2055.md)                                 |
 | 6  | [practical 6](practical%206.md)   | 31 | [practical 31](practical%2031.md) | 56 | [practical 56](practical%2056.md) |
 | 7  | [practical 7](practical%207.md)   | 32 | [practical 32](practical%2032.md) | 57 | [practical 57](practical%2057.md) |
 | 8  | [practical 8](practical%208.md)   | 33 | [practical 33](practical%2033.md) | 58 | [practical 58](practical%2058.md) |
